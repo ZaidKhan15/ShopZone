@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ShopZone/static/css/main.7ed1c2f1.chunk.css",
+    "main.js": "/ShopZone/static/js/main.47f29a92.chunk.js",
+    "main.js.map": "/ShopZone/static/js/main.47f29a92.chunk.js.map",
+    "runtime-main.js": "/ShopZone/static/js/runtime-main.2083e656.js",
+    "runtime-main.js.map": "/ShopZone/static/js/runtime-main.2083e656.js.map",
+    "static/js/2.f4bb5353.chunk.js": "/ShopZone/static/js/2.f4bb5353.chunk.js",
+    "static/js/2.f4bb5353.chunk.js.map": "/ShopZone/static/js/2.f4bb5353.chunk.js.map",
+    "index.html": "/ShopZone/index.html",
+    "static/css/main.7ed1c2f1.chunk.css.map": "/ShopZone/static/css/main.7ed1c2f1.chunk.css.map",
+    "static/js/2.f4bb5353.chunk.js.LICENSE.txt": "/ShopZone/static/js/2.f4bb5353.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.b3f099a2.png": "/ShopZone/static/media/olx-logo.b3f099a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2083e656.js",
+    "static/js/2.f4bb5353.chunk.js",
+    "static/css/main.7ed1c2f1.chunk.css",
+    "static/js/main.47f29a92.chunk.js"
+  ]
+}
